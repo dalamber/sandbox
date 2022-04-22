@@ -1,2 +1,2 @@
-# qtapp-template
-Template GUI app with minimal set of Qt libraries and GTest Framework
+# sandbox
+A sandbox is a sandpit, a wide, shallow playground construction to hold sand, often made of wood or plastic.
